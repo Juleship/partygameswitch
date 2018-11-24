@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Overcooked
+title: 'Overcooked for Nintendo Switch: fun in the kitchen!'
 date: 2018-11-24T15:04:00.000Z
 description: One of the best party game ever!
 tags:
