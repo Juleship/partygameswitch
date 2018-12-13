@@ -5,6 +5,6 @@
 layout: home
 ---
 
-# StyLivJek
+# Party Games Switch!
 
-A jekyll configuration boilerplate
+A website about local party games on Nintendo Switch.
